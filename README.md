@@ -19,9 +19,9 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+<p>The test contains 10 questions and you have 5 minutes to complete the quiz.</p>
 <p></p>
-<p></p>
-<p></p>
+<p>You will get 1 point for each correct answer. At the end of the quiz, your total score will be displayed. Maximum score is 10 points.</p>
 <p>Application is responsive for all mobile devices.</p>
 
 
