@@ -5,7 +5,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p></p>
+<p>Quiz game application using Vanilla JavaScript.</p>
 <p></p>
 
   <p>
@@ -20,8 +20,8 @@
 ## Usage
 
 <p>The test contains 10 questions and you have 5 minutes to complete the quiz.</p>
-<p></p>
 <p>You will get 1 point for each correct answer. At the end of the quiz, your total score will be displayed. Maximum score is 10 points.</p>
+<p>This app teaches you how to deal with events, manipulate the DOM, handle user input, give feedback to the user and keep track and display their score.</p>
 <p>Application is responsive for all mobile devices.</p>
 
 
