@@ -9,7 +9,7 @@
 <p></p>
 
   <p>
- <a https://around-the-world-app.glitch.me/">View Demo Here</a>
+    <a href="https://around-the-world-app.glitch.me">View Demo Here</a>
   </p>
 
 ## Built With
