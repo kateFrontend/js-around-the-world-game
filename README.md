@@ -1,6 +1,6 @@
 <div>
   <h1>Around the World quiz game</h1> 
-  <img src="image/cover-quiz.JPG" alt="Quiz game" width="auto">
+  <img src="image/07!!!.JPG" alt="Quiz game" width="auto">
 </div>
 
 <!-- ABOUT THE PROJECT -->
